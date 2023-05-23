@@ -1,0 +1,10 @@
+https://aistudio.baidu.com/aistudio/projectdetail/4116071
+https://blog.csdn.net/heyijiushi/article/details/121107483
+https://github.com/tiffanychum/Data-redaction/blob/main/Data%20redaction.ipynb
+https://blog.csdn.net/wffs_yz000/article/details/104032486
+https://zhuanlan.zhihu.com/p/142284785
+https://tesseract-ocr.github.io/tessdoc/Data-Files#latest-data-files-september-15-2017
+https://tesseract-ocr.github.io/tessdoc/Data-Files#latest-data-files-september-15-2017
+https://stackoverflow.com/questions/75415380/cannot-read-an-image-inside-a-pdf-using-pymupdf-and-pytesseract
+https://github.com/pymupdf/PyMuPDF-Utilities/blob/master/OCR/tesseract1.py
+https://nanonets.com/blog/ocr-with-tesseract/
